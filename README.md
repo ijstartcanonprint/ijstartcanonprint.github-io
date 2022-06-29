@@ -13,7 +13,7 @@ After this process, you can open the driver or any file and give a print on the 
 ## How to set up the ij.start.canon printer on my windows Pc?
 To setup the canon printer on your **windows** PC, follow the steps given below;
 
-[![ij.start.canon](canon-printer.jpg)]
+[ij.start.canon](canon-printer.jpg)
 
 •	Unbox your **canon printer**.
 
